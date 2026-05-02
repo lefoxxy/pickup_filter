@@ -1,8 +1,8 @@
-# Pickup Filter
+# Pocket Filter
 
-**Pickup Filter** is a lightweight Forge 1.20.1 utility mod for players who are tired of their inventory filling with junk every time they mine, farm, explore, or stand near a mob grinder.
+**Pocket Filter** is a lightweight Forge 1.20.1 utility mod for players who are tired of their inventory filling with junk every time they mine, farm, explore, or stand near a mob grinder.
 
-Instead of constantly opening your inventory to throw away cobblestone, rotten flesh, seeds, arrows, or whatever else the world keeps shoving into your pockets, Pickup Filter lets you decide what automatic pickup should actually mean.
+Instead of constantly opening your inventory to throw away cobblestone, rotten flesh, seeds, arrows, or whatever else the world keeps shoving into your pockets, Pocket Filter lets you decide what automatic pickup should actually mean.
 
 Want to collect only diamonds, ores, and rare drops while mining? Use whitelist mode.
 
@@ -14,7 +14,7 @@ Want ignored items to stay safely on the ground instead of being deleted? That i
 
 Minecraft throws a lot of items at you. Some are valuable. Some are useful later. Some are just there to slowly turn your inventory into a junk drawer.
 
-Pickup Filter gives you a simple, per-player filter with 15 reference slots. Drop an item reference into the filter GUI, choose whitelist or blacklist, and keep playing. No complicated setup. No extra item required. No weird storage tricks.
+Pocket Filter gives you a simple, per-player filter with 15 reference slots. Drop an item reference into the filter GUI, choose whitelist or blacklist, and keep playing. No complicated setup. No extra item required. No weird storage tricks.
 
 It is built for the moments where inventory clutter breaks the flow:
 
@@ -43,7 +43,7 @@ It is built for the moments where inventory clutter breaks the flow:
 
 Open your inventory and click the paper icon on the right side of the inventory screen.
 
-Inside the Pickup Filter GUI, choose a mode:
+Inside the Pocket Filter GUI, choose a mode:
 
 **Whitelist**
 
@@ -57,7 +57,7 @@ The filter slots are reference slots only. They do not store real items, consume
 
 ## Feedback Messages
 
-The `Msg` button controls whether Pickup Filter shows a small actionbar message when it ignores an item.
+The `Msg` button controls whether Pocket Filter shows a small actionbar message when it ignores an item.
 
 Turn it on if you want confirmation that the filter is working.
 
@@ -65,7 +65,7 @@ Turn it off if you prefer silence.
 
 ## Multiplayer Friendly
 
-Pickup Filter is designed with multiplayer in mind. The server validates filter changes, keeps the real data, and syncs the GUI back to the client. Clients cannot create real items through the filter screen because the slots are only visual references.
+Pocket Filter is designed with multiplayer in mind. The server validates filter changes, keeps the real data, and syncs the GUI back to the client. Clients cannot create real items through the filter screen because the slots are only visual references.
 
 ## Configuration
 
@@ -81,9 +81,9 @@ Server/common config options include:
 
 - Minecraft: 1.20.1
 - Loader: Forge
-- Mod ID: `pickupfilter`
+- Mod ID: `pocketfilter`
 - License: MIT License
 
 ## Credits
 
-Pickup Filter by GOGLEO (GitHub: lefoxxy)
+Pocket Filter by GOGLEO (GitHub: lefoxxy)

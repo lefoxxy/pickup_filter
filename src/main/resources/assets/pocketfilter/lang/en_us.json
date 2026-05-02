@@ -1,0 +1,12 @@
+{
+  "button.pocketfilter.feedback.off": "Msg: Off",
+  "button.pocketfilter.feedback.on": "Msg: On",
+  "button.pocketfilter.mode.blacklist": "Mode: Blacklist",
+  "button.pocketfilter.mode.whitelist": "Mode: Whitelist",
+  "button.pocketfilter.open": "Pocket Filter",
+  "button.pocketfilter.open.tooltip": "Open Pocket Filter",
+  "key.categories.pocketfilter": "Pocket Filter",
+  "key.pocketfilter.open": "Open Pocket Filter",
+  "message.pocketfilter.ignored": "Pocket Filter ignored %s",
+  "screen.pocketfilter.title": "Pocket Filter"
+}
